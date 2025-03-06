@@ -36,15 +36,16 @@
 ## Technical & Soft Skills  
 
 ### **Technical Skills:**  
-- [x] Expertise in **ETL (Extract, Transform, Load)** processes.  
-- [x] Ability to generate **date tables using Power Query**.  
-- [x] Proficiency in calculating **fiscal months and quarters**.  
-- [x] Establishing **data model relationships with Power Pivot**.  
-- [x] Integrating **additional data into existing data models**.  
-- [x] Crafting **calculated columns using DAX**.  
+- ✔️ Expertise in **ETL (Extract, Transform, Load)** processes.  
+- ✔️ Ability to generate **date tables using Power Query**.  
+- ✔️ Proficiency in calculating **fiscal months and quarters**.  
+- ✔️ Establishing **data model relationships with Power Pivot**.  
+- ✔️ Integrating **additional data into existing data models**.  
+- ✔️ Crafting **calculated columns using DAX**.  
 
 ### **Soft Skills:**  
-- [x] In-depth understanding of **Sales & Finance Reports**.  
-- [x] Designing **user-friendly reports with an intuitive approach**.  
-- [x] Enhancing **report generation efficiency through optimization**.  
-- [x] Developing **structured methodologies for report-building processes**.  
+- ✔️ In-depth understanding of **Sales & Finance Reports**.  
+- ✔️ Designing **user-friendly reports with an intuitive approach**.  
+- ✔️ Enhancing **report generation efficiency through optimization**.  
+- ✔️ Developing **structured methodologies for report-building processes**.  
+
